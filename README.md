@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # T-MAAC
 This is the official implementation of the paper Stabilizing Voltage in Power Distribution Networks via
 Multi-Agent Reinforcement Learning with Transformer (KDD2022 Research Track).
@@ -61,3 +62,6 @@ The meanings of the arguments:
 * `--test-day` is the day that you would like to do the test. Note that it is only activated if the `--test-mode` is `single`.
 * `--render` indicates activating the rendering of the environment.
 
+=======
+# GAT-MAAC-self
+>>>>>>> 146ab918700e4903ef8ed274280c913cbfd3eed2
