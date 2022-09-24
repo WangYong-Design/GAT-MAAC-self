@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # T-MAAC
 This is the official implementation of the paper Stabilizing Voltage in Power Distribution Networks via
 Multi-Agent Reinforcement Learning with Transformer (KDD2022 Research Track).
